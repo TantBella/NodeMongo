@@ -7,17 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TantBella/API_exercise.git"
+    "url": "git+https://github.com/TantBella/NodeMongo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TantBella/API_exercise/issues"
+    "url": "https://github.com/TantBella/NodeMongo/issues"
   },
-  "homepage": "https://github.com/TantBella/API_exercise#readme",
+  "homepage": "https://github.com/TantBella/NodeMongo#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
   }
 }
