@@ -16,5 +16,8 @@
     "url": "https://github.com/TantBella/API_exercise/issues"
   },
   "homepage": "https://github.com/TantBella/API_exercise#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
